@@ -1,0 +1,24 @@
+# Python-related files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# IDE and text editor files
+.vscode/
+.idea/
+
+# Generated files and directories
+data/
+models/
+
+# Ignore any environment-specific files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
